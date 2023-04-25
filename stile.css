@@ -10,3 +10,7 @@
 .logo-cabecalho{
     width: 20%;
 }
+.lista-cabecalho-item{
+    display: inline-block;
+
+}
