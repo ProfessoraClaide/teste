@@ -1,4 +1,5 @@
 .cabecalho{
     background: #54a55e;
     color: black;
+    display: flex;
 }
