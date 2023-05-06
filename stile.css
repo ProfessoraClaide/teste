@@ -28,6 +28,10 @@
 
 }
 .titulo-bio{
+    position: absolute;
+    width: 826px;
+    height: 306px;
+    left: 13px;
       font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
