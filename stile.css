@@ -20,12 +20,10 @@
 }
 
 .título-biotecnologia {
-    color: black;
-    font-size: 40px;
     text-align: center;
-    font-family: sans-serif;
-    margin: 0% 16px;
-
+    letter-spacing: 0.1em;
+    text-indent: 5px;
+    font-feature-settings: 'tnum' on, 'lnum' on, 'cpsp' on, 'cv06' on;
 }
 .titulo-bio{
     position: absolute;
