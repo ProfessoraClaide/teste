@@ -21,6 +21,7 @@
 
 .biotecnologia{
     color: blue;
-    align-content: center;
+    display: flex;
+align-content: center;
     font-size: 24px 0;
 }
