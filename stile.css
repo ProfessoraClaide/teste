@@ -47,6 +47,8 @@
 }
 .foto-texto1{
     margin:0 900px ;
-    padding-top: 50;
+    position: absolute;
+    width: 826px;
+    height: 306px;
     
 }
