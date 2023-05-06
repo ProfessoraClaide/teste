@@ -30,4 +30,23 @@
 .titulo-bio{
     text-align: left;
     margin: 0% 16px;
+    position: absolute;
+    width: 826px;
+    height: 306px;
+    left: 13px;
+    top: 901px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 60px;
+    /* or 250% */
+    
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-indent: 5px;
+    font-feature-settings: 'tnum' on, 'lnum' on, 'cpsp' on, 'cv06' on;
+    
+    color: #000000;
 }
