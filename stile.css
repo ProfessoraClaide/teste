@@ -22,7 +22,6 @@
 .título-biotecnologia {
     color: black;
     font-size: 40px;
-    display: flex;
-    align-items: center;
+    text-align: center;
 
 }
