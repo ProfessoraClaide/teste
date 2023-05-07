@@ -37,7 +37,7 @@ line-height: 60px;
 /* or 100% */
 text-align: center;
 letter-spacing: 0.1em;
-text-indent: 200px;
+text-indent: 5px;
 font-feature-settings: 'tnum' on, 'lnum' on, 'cpsp' on, 'cv06' on;
 }
 .imagem-micro{
