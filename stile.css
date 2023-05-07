@@ -27,9 +27,6 @@
     align-items: center;
     padding: 36px 0;
 }
-.titulo-section{
-    padding: 2000 0;
-}
 
 .texto1-biotecnologia{
 font-family: 'Inter';
@@ -43,6 +40,8 @@ letter-spacing: 0.1em;
 text-indent: 5px;
 font-feature-settings: 'tnum' on, 'lnum' on, 'cpsp' on, 'cv06' on;
 }
-
+.imagem-micro{
+    width: 20%;
+}
 
 
