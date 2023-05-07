@@ -33,11 +33,11 @@ font-weight: 400;
 font-size: 24px;
 line-height: 60px;
 /* or 250% */
-
 text-align: center;
 letter-spacing: 0.1em;
 text-indent: 5px;
 font-feature-settings: 'tnum' on, 'lnum' on, 'cpsp' on, 'cv06' on;
+padding: 36px 0;
 }
 
 
