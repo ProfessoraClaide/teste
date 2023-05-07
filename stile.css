@@ -18,36 +18,7 @@
     margin: 0% 16px;
     font-size: 24px;
 }
-
-.título-biotecnologia {
-    color: black;
-    font-size: 40px;
-    text-align-last: justify;
-    font-family: sans-serif;
-    margin: 0% 250px;
-}
-.titulo-bio{
-    position: absolute;
-    width: 826px;
-    height: 306px;
-    left: 13px;
-      font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 60px;
-    /* or 250% */
-    
-    text-align: center;
-    letter-spacing: 0.1em;
-    text-indent: 5px;
-    font-feature-settings: 'tnum' on, 'lnum' on, 'cpsp' on, 'cv06' on;
-    
-    color: #000000;
-}
-.foto-texto1{
-    margin: 0 900px ;
-    height: 1000;
-  
-    
+.informações-biotecnologia{background-image: linear-gradient(#C8FBBC
+    54%, #C8FBBC 56%)
+    );
 }
