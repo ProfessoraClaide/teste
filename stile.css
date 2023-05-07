@@ -29,6 +29,11 @@
 }
 
 .texto1-biotecnologia{
+position: absolute;
+width: 634px;
+height: 306px;
+left: 27px;
+top: 457px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
