@@ -17,10 +17,7 @@
     display: inline-block;
     margin: 0% 16px;
     font-size: 24px;
-    *{
-        padding: 0%;
-        margin: 0;
-    }
+   
 }.informações-biotecnologia{
     background-image: linear-gradient(#C8FBBC
     54%, #C8FBBC  56%);
@@ -29,6 +26,10 @@
     justify-content: space-around;
     align-items: center;
     padding: 36px 0;
+}
+*{
+    padding: 0%;
+    margin: 0;
 }
 .texto1-biotecnologia{
 font-family: 'Inter';
