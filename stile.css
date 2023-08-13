@@ -45,7 +45,7 @@ font-feature-settings: 'tnum' on, 'lnum' on, 'cpsp' on, 'cv06' on;
 @media screen and (min-width:600px){
     .item-lista-cabecalho{
         text-align:right;
-        text-transform: lowercase;
+        text-transform: uppercase;
     }
     
 }
